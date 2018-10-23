@@ -1,3 +1,4 @@
 function() {
-  (add(1+80))
+  (add(a, b))
+  return 1+80
 }
