@@ -15,5 +15,5 @@ return (a / b)
 }
 
 function inc(n) {
-return (a number++)
+return (a + 1)
 }
