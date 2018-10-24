@@ -1,3 +1,3 @@
-function(add(a, b)) {
+beforeEach(function() {
   return (81)
 }
